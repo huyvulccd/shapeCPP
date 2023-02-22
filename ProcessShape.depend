@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673661149 source:d:\code\mode c\processshape\main.cpp
+	<iostream>
+	<fstream>
+
